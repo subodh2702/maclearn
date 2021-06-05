@@ -1,5 +1,5 @@
 # maclearn
-projects of machine learning  \n
+projects of machine learning 
 
 https://github.com/subu-2702/maclearn/blob/main/Music%20Genre.ipynb     --> music_genre classifier in the jupyter notebook
 
